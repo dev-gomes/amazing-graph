@@ -1,5 +1,5 @@
 <br />
-# Bem vindo! :)
+# Bem vindo! :D<br>
 Este foi um desafio do projeto <a href="https://devchallenge.now.sh/"> DevChallenge</a>
 
 # Challenge

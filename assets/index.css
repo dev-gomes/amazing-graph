@@ -1,0 +1,85 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+/*Estilização do menu superior*/
+
+.menu {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 50px 30px 0px 30px;
+}
+
+.menu .logo {
+	text-decoration: none;
+	color: #D2872C;
+	font-size: 30px;
+}
+
+.menu .menu-items {
+	color: #000;
+}
+
+.menu .menu-items a {
+	text-decoration: none;
+	color: #000;
+	margin: 0px 0px 0px 5px;
+	padding: 10px;
+}
+
+.menu .menu-items a:hover {
+	transition: .2s;
+	background-color: #D2872C;
+	border-radius: 10px;
+	color: #fff;
+}
+.menu .menu-hamburger{
+	display: none;
+}
+
+.menu .menu-hamburger a {
+	display: none;
+	text-decoration: none;
+	color: #000;
+	font-size: 30px;
+}
+
+/*Estilização do container*/
+
+.container {
+	margin: 0px 30px 0px 30px;
+	display: flex;
+	justify-content: center;
+
+	width: 97%;
+ 	height: 50px;
+
+  	position: absolute;
+  	top: 50%;
+  	margin-top: -100px; 
+}
+.container-about {
+	margin-right: 20px;
+}
+
+.container-about h1 {
+	color: #766F68;
+	font-size: 50px;
+}
+
+.container-about p {
+	color: #766F68;
+	font-size: 20px;
+}
+
+.container-about button {
+	border: none;
+	background-color: #D2872C;
+	padding: 15px 60px;
+	color: #fff;
+	font-size: 20px;
+	border-radius: 10px;
+}

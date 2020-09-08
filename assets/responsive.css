@@ -1,0 +1,29 @@
+@media screen and (max-width: 900px){
+	.container {
+		margin: 0px 0px 0px 0px;
+		margin-top: -180px;
+		flex-direction: column;
+		justify-content: center;
+		left: 15%;
+		width: auto;
+ 		height: auto;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.container img {
+		display: none;
+	}
+
+	.menu .menu-items a {
+		display: none;
+	}
+
+	.menu .menu-hamburger{
+		display: block;
+	}
+
+	.menu .menu-hamburger a {
+		display: block;
+	}
+}

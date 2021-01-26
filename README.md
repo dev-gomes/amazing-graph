@@ -1,7 +1,3 @@
-<br />
-# Bem vindo! :D<br>
-Este foi um desafio do projeto <a href="https://devchallenge.now.sh/"> DevChallenge</a>
-
 # Challenge
 Este é um lading page de um site de criação de gráficos.<br>
 
@@ -17,3 +13,6 @@ Gray: #766F68
 
 # Fonte usada:
 - Roboto
+
+# Créditos<br>
+Este é um desafio do projeto <a href="https://devchallenge.now.sh/"> DevChallenge</a>

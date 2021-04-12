@@ -18,6 +18,3 @@ Gray: #766F68
 
 # Fonte usada:
 - Roboto
-
-# Créditos<br>
-Este é um desafio do projeto <a href="https://devchallenge.now.sh/"> DevChallenge</a>
